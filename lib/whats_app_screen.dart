@@ -10,7 +10,6 @@ class WhatsAppScreen extends StatefulWidget {
 class _WhatsAppScreenState extends State<WhatsAppScreen> {
   final List<String> categories = ["All", "Unread", "Favourites", "Groups", "Other"];
 
-  // قائمة المحادثات
   List chats = [
     {"name": "Ahmed", "message": "ازيك عامل ايه؟", "time": "10:30 AM", "image": "assets/images/doctor_fake.png"},
     {"name": "Waleed", "message": "تمام، هشوفك بكرة", "time": "Yesterday", "image": "assets/images/doctor_fake.png"},
