@@ -2,7 +2,8 @@
 
 A clean and responsive WhatsApp-style user interface built using **Flutter**. This project demonstrates state management (UI updates), list rendering, and layout design.
 ## Image 
-![Screenshot 2026-02-03 231240.png](../../OneDrive/%D8%A7%D9%84%D8%B5%D9%88%D8%B1/Screenshots/Screenshot%202026-02-03%20231240.png)
+<img width="423" height="865" alt="Screenshot 2026-02-03 231240" src="https://github.com/user-attachments/assets/2379c2a2-35d3-4055-ad86-eaf93688bbf5" />
+
 ## ✨ Features
 - **Dynamic Filter Bar**: Horizontal category list (All, Unread, Groups...) that changes color when tapped.
 - **Modern Search Bar**: Custom-styled input area for searching chats.
